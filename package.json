@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "@mapbox/mapbox-gl-draw",
   "version": "1.4.1",
   "description": "A drawing component for Mapbox GL JS",
