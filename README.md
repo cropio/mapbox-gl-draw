@@ -1,4 +1,4 @@
-# @mapbox/mapbox-gl-draw
+# @cropio-js/mapbox-gl-draw
 
 ![Build Status](https://github.com/mapbox/mapbox-gl-draw/actions/workflows/main.yml/badge.svg)
 
@@ -11,7 +11,7 @@ Adds support for drawing and editing features on [mapbox-gl.js](https://www.mapb
 ### Installing
 
 ```
-npm install @mapbox/mapbox-gl-draw
+npm install @cropio-js/mapbox-gl-draw
 ```
 
 Draw ships with CSS, make sure you include it in your build.
@@ -24,7 +24,7 @@ Draw ships with CSS, make sure you include it in your build.
 
 ```js
 import mapboxgl from 'mapbox-gl';
-import MapboxDraw from "@mapbox/mapbox-gl-draw";
+import MapboxDraw from "@cropio-js/mapbox-gl-draw";
 ```
 
 **When using a CDN**
@@ -37,7 +37,7 @@ import MapboxDraw from "@mapbox/mapbox-gl-draw";
 
 **When using modules**
  ```js
-import '@mapbox/mapbox-gl-draw/dist/mapbox-gl-draw.css'
+import '@cropio-js/mapbox-gl-draw/dist/mapbox-gl-draw.css'
  ```
 
 **When using CDN**
